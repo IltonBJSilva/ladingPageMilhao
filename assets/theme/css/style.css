@@ -29,6 +29,13 @@ a.mbr-iconfont:hover {
   margin-bottom: 0;
 }
 
+p{
+  color: white;
+
+}
+
+
+
 a {
   font-style: normal;
   font-weight: 400;
@@ -51,6 +58,10 @@ a, a:hover {
 .mbr-text {
   font-style: normal;
   line-height: 1.7;
+}
+
+h1{
+  color: white;
 }
 
 h1,
@@ -1010,6 +1021,7 @@ blockquote {
 .card-wrapper,
 .item-wrapper {
   overflow: hidden;
+  
 }
 
 .app-video-wrapper > img {

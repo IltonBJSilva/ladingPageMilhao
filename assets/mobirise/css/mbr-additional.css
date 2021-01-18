@@ -3,6 +3,9 @@
 body {
   font-family: IBM Plex Sans;
 }
+label{
+  font-family: 'PT Sans Narrow', sans-serif;
+}
 .display-1 {
   font-family: 'Jost', sans-serif;
   font-size: 4.6rem;
@@ -82,7 +85,7 @@ body {
 }
 
 .cid-slPyjYQFUt {
-  background-image: url("../../../assets/images/mbr-1920x1440.jpg");
+  background-image: url("../../../assets/images/tyler-casey-zMyZrfcLXQE-unsplash.jpg");
 }
 
 div.content h1{
@@ -90,14 +93,47 @@ div.content h1{
   font-family: 'Staatliches', cursive;
   font-weight: bold;
   font-size: 60px;
-  color: #000000;
+  color: white;
 
 
 
 }
 
 
-.cid-slPyjYQFUt .card-wrapper {
+input{
+  width: 400px;
+  height: 45px;
+}
+
+.form-check-submit{
+  text-align: center;
+  
+}
+
+.botao{
+  border-radius: 25px;
+  
+  width: 600px;
+  height: 50px;
+
+}
+
+
+.text-input{
+  color: white;
+  font-size: 25px;
+}
+
+.sonho{
+
+  height: 100px;
+
+}
+
+
+
+ .card-wrapper {
+  align-items: center;
   opacity: 0.8;
   background: #6200EE;
   border-radius: 4px;
